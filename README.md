@@ -16,7 +16,7 @@ Run the `solver.py` to see the gravitational collapse of a 3-SAT problem.
 
 
 
-# GraviSAT v49.0 — High-Performance CDCL SAT Solver
+# GraviSAT v64.0 — High-Performance CDCL SAT Solver
 
 ## Overview
 
